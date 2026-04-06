@@ -12,7 +12,7 @@
     "c2w": "nodemon --watch index.html --watch style.css --watch tests --ext html,css,js --exec \"npx playwright test\""
   },
   "dependencies": {
-    "vite": "^5.0.4"
+    "vite": "^8.0.3"
   },
   "devDependencies": {
     "@playwright/test": "^1.52.0",
